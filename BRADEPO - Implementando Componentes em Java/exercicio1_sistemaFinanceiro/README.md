@@ -6,5 +6,5 @@ Exercício 1: Sistema Financeiro
 
 ## Modelagem UML
 
-![Sistema Financeiro - Diagrama de Componentes em UML](exercicio2_ecommerce\componentDiagramUML\exercicio2_ecommerce.jpg)
+![Sistema Financeiro - Diagrama de Componentes em UML](https://github.com/evelinferreiraa/BRADEPO_2025.1/tree/main/BRADEPO%20-%20Implementando%20Componentes%20em%20Java/exercicio1_sistemaFinanceiro/componentDiagramUML)
 
