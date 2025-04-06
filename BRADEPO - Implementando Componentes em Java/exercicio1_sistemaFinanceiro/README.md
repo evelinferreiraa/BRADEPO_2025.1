@@ -1,6 +1,6 @@
 # Sistema Bancário para Simulação de Empréstimos
 
-Atividade Slides "Aula 3 (BRADEPO) - Implementando Componentes em Java"
+Atividades Aula 3 - Implementando Componentes em Java
 
 Exercício 1: Sistema Financeiro
 
