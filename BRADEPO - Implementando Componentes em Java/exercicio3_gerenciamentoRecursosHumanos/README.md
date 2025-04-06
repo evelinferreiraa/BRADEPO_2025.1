@@ -6,5 +6,5 @@ Exercício 3: Gerenciamento de Recursos Humanos
 
 ## Modelagem UML
 
-![Gerenciamento de Recursos Humanos](componentDiagramUML\exercicio2_ecommerce.jpg)
+![Gerenciamento de Recursos Humanos](componentDiagramUML/exercicio3_gerenciamentoRecursosHumanos.jpg)
 
