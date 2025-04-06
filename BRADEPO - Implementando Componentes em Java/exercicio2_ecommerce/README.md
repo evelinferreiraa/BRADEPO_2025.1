@@ -1,6 +1,6 @@
 # Plataforma de Comércio Eletrônico
 
-Atividade Slides "Aula 3 (BRADEPO) - Implementando Componentes em Java"
+Atividades Aula 3 - Implementando Componentes em Java
 
 Exercício 2: E-commerce
 
