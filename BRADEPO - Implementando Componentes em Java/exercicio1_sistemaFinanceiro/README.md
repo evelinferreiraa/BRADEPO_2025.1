@@ -6,5 +6,5 @@ Exercício 1: Sistema Financeiro
 
 ## Modelagem UML
 
-![Sistema Financeiro - Diagrama de Componentes em UML](componentDiagramUML\exercicio1_sistemaFinanceiro.jpg)
+![Sistema Financeiro - Diagrama de Componentes em UML](componentDiagramUML/exercicio1_sistemaFinanceiro.jpg)
 
